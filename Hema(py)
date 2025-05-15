@@ -98,7 +98,3 @@ class RobotCoordinator:
 if __name__ == "__main__":
     coordinator = RobotCoordinator()
     coordinator.execute_mission()
-<!---
-hema-ship/hema-ship is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
